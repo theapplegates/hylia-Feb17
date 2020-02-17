@@ -13,6 +13,10 @@ sections:
   match: "*.md"
   templates:
   - post
+- type: document
+  path: contact
+  label: Page
+  match: "**/*"
 - type: heading
   label: Globals
 - type: document
